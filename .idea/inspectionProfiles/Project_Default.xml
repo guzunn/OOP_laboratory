@@ -1,0 +1,13 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Lesson_22_Live.Inheritance_examples.Dog.Lesson_22_Liveimport" />
+          <option value="Lesson_22_Live.Inheritance_examples.Bird.Animal" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

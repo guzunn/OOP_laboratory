@@ -1,0 +1,72 @@
+2023-12-11 19:25:43 - Displayed enrolled students for FCIM
+2023-12-11 19:25:49 - Quit program
+2023-12-11 19:28:01 - Displayed enrolled students for FCIM
+2023-12-11 19:53:54 - Created student: Anatol Guzun in FCIM
+2023-12-11 19:53:54 - Created student: Anatol Guzun in FCIM
+2023-12-11 19:54:09 - Displayed enrolled students for FCIM
+2023-12-12 13:17:11 - Created student: John Snow in FCIM
+2023-12-12 13:17:11 - Created student: John Snow in FCIM
+2023-12-12 13:17:21 - Displayed enrolled students for FCIM
+2023-12-12 13:22:58 - Displayed enrolled students for FCIM
+2023-12-12 13:23:46 - Displayed enrolled students for FCIM
+2023-12-12 13:25:14 - Displayed enrolled students for FCIM
+2023-12-12 13:28:49 - Displayed enrolled students for FCIM
+2023-12-12 13:30:04 - Displayed enrolled students for FCIM
+2023-12-12 13:33:42 - Displayed enrolled students for FCIM
+2023-12-12 13:41:01 - Created student: John Snow in FCIM
+2023-12-12 13:41:01 - Created student: John Snow in FCIM
+2023-12-12 13:41:08 - Displayed enrolled students for FCIM
+2023-12-12 13:44:53 - Displayed enrolled students for FCIM
+2023-12-12 13:46:15 - Created student: John Snow in FCIM
+2023-12-12 13:46:15 - Created student: John Snow in FCIM
+2023-12-12 14:28:26 - Displayed enrolled students for FCIM
+2023-12-12 14:37:02 - Displayed enrolled students for FCIM
+2023-12-12 14:37:58 - Created student: John Snow in FCIM
+2023-12-12 14:37:58 - Created student: John Snow in FCIM
+2023-12-12 14:38:12 - Displayed enrolled students for FCIM
+2023-12-12 14:38:17 - Quit program
+2023-12-12 14:39:35 - Displayed enrolled students for FCIM
+2023-12-12 22:08:24 - Displayed enrolled students for FCIM
+2023-12-12 23:05:15 - Created student: Cezar Guzun in FCIM
+2023-12-12 23:05:15 - Created student: ION Stratan in FCIM
+2023-12-12 23:05:51 - Created student: Cezar Guzun in FCIM
+2023-12-12 23:05:51 - Created student: ION Stratan in FCIM
+2023-12-12 23:06:17 - Created student: Cezar Guzun in FCIM
+2023-12-12 23:06:17 - Created student: ION Stratan in FCIM
+2023-12-12 23:06:20 - Created student: Cezar Guzun in FCIM
+2023-12-12 23:06:20 - Created student: ION Stratan in FCIM
+2023-12-12 23:06:28 - Created student: Cezar Guzun in FCIM
+2023-12-12 23:06:28 - Created student: ION Stratan in FCIM
+2023-12-12 23:06:38 - Created student: Cezar Guzun in FCIM
+2023-12-12 23:06:38 - Created student: ION Stratan in FCIM
+2023-12-12 23:07:23 - Created student: Cezar Guzun in FCIM
+2023-12-12 23:07:23 - Created student: ION Stratan in FCIM
+2023-12-12 23:07:44 - Created student: Cezar Guzun in FCIM
+2023-12-12 23:07:44 - Created student: ION Stratan in FCIM
+2023-12-12 23:09:52 - Created student: Cezar Guzun in FCIM
+2023-12-12 23:09:52 - Created student: ION Stratan in FCIM
+2023-12-12 23:10:03 - Created student: Cezar Guzun in FCIM
+2023-12-12 23:10:03 - Created student: ION Stratan in FCIM
+2023-12-13 00:06:41 - Displayed enrolled students for FCIM
+2023-12-13 00:08:48 - Created student: Cezar Guzun in FCIM
+2023-12-13 00:08:48 - Created student: ION Stratan in FCIM
+2023-12-13 00:09:22 - Created student: Cezar Guzun in FCIM
+2023-12-13 00:09:22 - Created student: ION Stratan in FCIM
+2023-12-13 00:10:20 - Created student: Cezar Guzun in FCIM
+2023-12-13 00:10:20 - Created student: ION Stratan in FCIM
+2023-12-13 00:11:44 - Created student: Cezar Guzun in FCIM
+2023-12-13 00:11:44 - Created student: ION Stratan in FCIM
+2023-12-13 00:11:54 - Created student: Cezar Guzun in FCIM
+2023-12-13 00:11:54 - Created student: ION Stratan in FCIM
+2023-12-13 00:14:11 - Created student: Cezar Guzun in FCIM
+2023-12-13 00:14:11 - Created student: ION Stratan in FCIM
+2023-12-13 00:15:23 - Failed to graduate student: ['john@gmail.com']. Student not present or not enrolled.
+2023-12-13 00:15:48 - Displayed enrolled students for FCIM
+2023-12-13 00:16:46 - Created student: Vladislav Cristea in FCIM
+2023-12-13 00:16:46 - Created student: Vladislav Cristea in FCIM
+2023-12-13 00:16:53 - Displayed enrolled students for FCIM
+2023-12-13 00:17:14 - Failed to graduate student: ['vladik@gmail.com']. Student not present or not enrolled.
+2023-12-13 00:17:55 - Quit program
+2023-12-13 00:18:16 - Failed to graduate student: ['FCIM', 'vladik@gmail.com']. Student not present or not enrolled.
+2023-12-13 00:21:06 - Graduated student: Vladislav Cristea from FCIM
+2023-12-13 00:21:06 - Failed to graduate student: ['vladik@gmail.com']. Student not present or not enrolled.
