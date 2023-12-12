@@ -57,7 +57,7 @@ class Faculty:
         for student in self.students:
             if student.email == email:
                 return student
-        return student
+        return s
 
 
 
